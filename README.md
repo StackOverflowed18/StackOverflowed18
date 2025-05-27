@@ -9,6 +9,7 @@
 🌟 Dreaming big: Targeting Google SWE Intern 🤞
 
 ---
+<br>
 
 ## ✨ About Me
 
