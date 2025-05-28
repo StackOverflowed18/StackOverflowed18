@@ -6,7 +6,6 @@
 🎯 Focused on: Web Dev | DSA | Gen Ai  
 💻 Currently building: **Green Gadget** (e-waste web app)  
 🧠 Learning: Chatbot dev, Tailwind CSS, and LLM integrations Chat Bots 
-🌟 Dreaming big: Targeting Google SWE Intern 🤞
 
 ---
 <br>
