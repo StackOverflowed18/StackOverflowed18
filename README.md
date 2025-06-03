@@ -44,9 +44,11 @@
 ---
 
 ## 📊 My GitHub Stats
+![Anshima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StackOverflowed18&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+### My Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![Anshima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StackOverflowed18&layout=compact&theme=radical&hide_progress=true)
+
 
 ---
 
@@ -55,17 +57,16 @@
 | 💼 Project | 🌐 Tech Stack | 🌱 Description |
 |-----------|----------------|----------------|
 | **Green Gadget** | MERN, Bootstrap | E-waste management platform for sustainability |
-| **TSA Tracker** | JS, CSS, HTML | Visual tracker for DSA progress |
-| **JobMatch AI Agent** | Python, LLMs | Smart career opportunity recommender (in progress) |
-
+| **Finance Tracker Application** |JS, CSS, HTML ,MERN ,TypeScript ,Docker,Docker Compose | Visual tracker for DSA progress | 
+| **Healthcare Data Management System (HDMS)** | MySQL , XAMPP , HTML , CSS | Smart career opportunity recommender (in progress) |
 ---
 
 ## 📫 Let's Connect!
 
-- 🌍 [LinkedIn]([https://linkedin.com/in/your-profile-link](https://www.linkedin.com/in/a-s-k/))  
-- 🧠 [GeeksForGeeks]([https://auth.geeksforgeeks.org/user/your-profile](https://www.geeksforgeeks.org/user/anshimass3co/))  
-- ✍️ [HackerRank](https://www.hackerrank.com/profile/anshimasinghask)
-- 👩‍💻 [LeetCode]([https://leetcode.com/your-username/](https://leetcode.com/u/23cs10an18/))
+   - 🌐 [LinkedIn](https://www.linkedin.com/in/a-s-k/)
+   - 💡 [GeeksForGeeks Profile](https://www.geeksforgeeks.org/user/anshimass3co/)
+   - 📊 [HackerRank Profile](https://www.hackerrank.com/profile/anshimasinghask)
+   - 🧠 [LeetCode Profile](https://leetcode.com/u/23cs10an18/)
 
 ---
 
