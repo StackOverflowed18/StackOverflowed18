@@ -1,14 +1,14 @@
 # 👩‍💻 Hey, I'm Anshima!
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZyYjk3MzY0bWhnMGZlNTFiaHRpbGdiNTF4ZHQ4bzFlZGh6c3hlZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px" align="right" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lvODhrdTRxbGQzNGo2cXE5dGYwamFpZXlrcWJ3Y3o4Z2MwYTRreCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200px" align="right"/>
 
-✨ 2nd Year | CSE  at Madhav Institute of Technology & Science, Gwalior  
-🎯 Focused on: Web Dev | DSA | Gen Ai  
+✨ 3rd Year | CSE  at Madhav Institute of Technology & Science, Gwalior  
+🎯 Focused on: Web Dev | DSA | Gen Ai  Based Projects and collabs
 💻 Currently building: **Green Gadget** (e-waste web app)  
 🧠 Learning: Chatbot dev, Tailwind CSS, and LLM integrations Chat Bots 
 
 ---
-<br>
+
 
 ## ✨ About Me
 
