@@ -44,7 +44,7 @@
 ---
 
 ## 📊 My GitHub Stats
-![Anshima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StackOverflowed18&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![MY GitHub Stats](https://github-readme-stats.vercel.app/api?username=StackOverflowed18&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ### My Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StackOverflowed18&layout=compact&theme=radical&hide_progress=true)
