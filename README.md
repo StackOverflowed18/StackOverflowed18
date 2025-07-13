@@ -15,36 +15,61 @@
 - 💡 Creative coder & problem solver  
 - 🌐 Interested in backend, AI, and building scalable products  
 - 📚 I regularly share my learning journey on [LinkedIn]([https://linkedin.com/in/your-profile-link](https://www.linkedin.com/in/a-s-k/))  
-- 🧩 400+ DSA questions solved on coding platforms like GfG ,HackerRank,LC  
+- 🧩 300+ DSA questions solved overall on coding platforms like GfG ,HackerRank,LC  
 - 🧠 I believe in **consistency over perfection**
 
 ---
+<section>
+  <h2><b>POR</b></h2>
 
-## 🌱 My Values
-
-🦋 Beginner’s mindset & curiosity  
-🦋 Always up for new challenges  
-🦋 Team player & positive thinker  
-🦋 Growth-oriented & passionate learner  
-
----
+  <table border="0" width="100%">
+    <tr>
+      <th align="left">Position</th>
+      <th align="left">Date Range</th>
+    </tr>
+    <br>
+    <tr>
+      <td><b>Mentor in Peer Learning Program at MITS DU,</b><br>(Teaching | Public Speaking)</td>
+      <td align="right">11/2024 – 12/2024</td>
+    </tr>
+    <tr>
+      <td><b>Technical Team Member at GfG SC MITS-DU</b></td>
+      <td align="right">11/2024 – 02/2025</td>
+    </tr>
+    <tr>
+      <td><b>Class Representative at MITS DU,</b> (Leadership Experience)</td>
+      <td align="right">09/2023 – present</td>
+    </tr>
+    <tr>
+      <td><b>Planning & Management Member FUNTECH CLUB-MITS,</b><br>(Managerial skills)</td>
+      <td align="right">03/2025 – Present</td>
+    </tr>
+  </table>
+</section>
+<hr>
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 </p>
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  
 
----
+</p>
+</hr>
 
 ## 📊 My GitHub Stats
-![MY GitHub Stats](https://github-readme-stats.vercel.app/api?username=StackOverflowed18&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![MY GitHub Stats](https://camo.githubusercontent.com/a55c9cf6fd035af8745caa3375c85b7cc19504cca6eaeb2f1709188c1cacae80/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d537461636b4f766572666c6f77656431382673686f775f69636f6e733d74727565267468656d653d7261646963616c26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565)
 ### My Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StackOverflowed18&layout=compact&theme=radical&hide_progress=true)
