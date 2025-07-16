@@ -70,10 +70,10 @@
 </hr>
 
 ## 📊 My GitHub Stats
-![MY GitHub Stats](https://camo.githubusercontent.com/a55c9cf6fd035af8745caa3375c85b7cc19504cca6eaeb2f1709188c1cacae80/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d537461636b4f766572666c6f77656431382673686f775f69636f6e733d74727565267468656d653d7261646963616c26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565)
-### My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StackOverflowed18&layout=compact&theme=radical&hide_progress=true)
+![Anshima's GitHub stats](https://github-readme-stats.vercel.app/api?username=StackOverflowed18&show_icons=true&theme=tokyonight)
+### My Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StackOverflowed18&layout=compact&theme=tokyonight&hide_progress=true)
 
 
 ---
