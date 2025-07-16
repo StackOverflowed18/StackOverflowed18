@@ -1,5 +1,4 @@
-# 👩‍💻 Hey, I'm Anshima!                            ![Profile Views](https://komarev.com/ghpvc/?username=StackOverflowed18&label=Profile%20Views&color=ff69b4&style=flat-square)
-
+# 👩‍💻 Hey, I'm Anshima!                            
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lvODhrdTRxbGQzNGo2cXE5dGYwamFpZXlrcWJ3Y3o4Z2MwYTRreCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200px" align="right"/>
 
@@ -77,6 +76,7 @@
 
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=StackOverflowed18&label=Profile%20Views&color=ff69b4&style=flat-square)
 
 ## 📌 Featured Projects
 
