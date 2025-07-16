@@ -1,4 +1,5 @@
-# 👩‍💻 Hey, I'm Anshima!
+# 👩‍💻 Hey, I'm Anshima!                            ![Profile Views](https://komarev.com/ghpvc/?username=StackOverflowed18&label=Profile%20Views&color=ff69b4&style=flat-square)
+
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lvODhrdTRxbGQzNGo2cXE5dGYwamFpZXlrcWJ3Y3o4Z2MwYTRreCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200px" align="right"/>
 
@@ -14,7 +15,7 @@
 
 - 💡 Creative coder & problem solver  
 - 🌐 Interested in backend, AI, and building scalable products  
-- 📚 I regularly share my learning journey on [LinkedIn]([https://linkedin.com/in/your-profile-link](https://www.linkedin.com/in/a-s-k/))  
+- 📚 I regularly share my learning journey on [LinkedIn](https://www.linkedin.com/in/a-s-k/)  
 - 🧩 300+ DSA questions solved overall on coding platforms like GfG ,HackerRank,LC  
 - 🧠 I believe in **consistency over perfection**
 
