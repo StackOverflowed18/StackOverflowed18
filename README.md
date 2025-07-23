@@ -4,8 +4,8 @@
 
 ✨ Seasoned Junior at MITS-DU GWL in CSE'27</br>
 🎯 Focused on: Web Dev | DSA | Gen Ai  Based Projects and collabs</br>
-💻 Currently building: **Green Gadget** (e-waste web app)  </br>
-🧠 Learning: Chatbot dev, Tailwind CSS, and LLM integrations Chat Bots </br>
+💻 Currently building: **Netravat ai** Real time ai interview webapplicatn in next js and Tailwind css </br>
+🧠 Learning: advanced topics of js ,Chatbot dev and LLM integrations Chat Bots </br>
 
 ---
 
