@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lvODhrdTRxbGQzNGo2cXE5dGYwamFpZXlrcWJ3Y3o4Z2MwYTRreCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200px" align="right"/>
 
 ✨ Seasoned Junior at MITS-DU GWL in CSE'27</br>
-🎯 Focused on: DSA  && Web Dev |  | Gen Ai | NLP based Projects and Collabs </br>
+🎯 Focused on: DSA  && ( Web Dev | Gen Ai | NLP ) based Projects and Collabs </br>
 💻 Currently building: **Netravat ai** Real time ai interview webapplicatn in next js and Tailwind css </br>
 🧠 Learning: advanced topics of js ,git Concepts </br>
 
